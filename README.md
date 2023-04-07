@@ -23,4 +23,4 @@ git@github.com:mimiecmoua/I-m-Still-Standing.git
 2.Ouvrir le fichier index.html avec un navigateur web
 
 AUTEUR
-Ce projet a été créé par Emilie Dion pour une évaluation d'entraînement pour l'école STUDI.
+Ce projet a été créé par Emilie Dion pour une évaluation d'entraînement pour l'école STUDI et inspiré par la chanson d'Elton John "I'm Still Standing".
