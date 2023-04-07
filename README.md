@@ -1,7 +1,7 @@
 SITE VITRINE DE L'ASSOCIATION I'M STILL SATANDING !!!
 Ce projet est une évaluation d'entaînement,
 Créer un site web avec html, css et le framework bootstrap,
-qui représente l'association "I'm still standing" (factice).
+qui représente l'association "I'm still standing" (fictive).
 je représente ses services et événements.
 Il a été créé avec HTML, CSS, 
 et utilise le framework bootstrap pour le design responsive
