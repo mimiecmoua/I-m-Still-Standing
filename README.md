@@ -12,7 +12,7 @@ le site vitrine comprend les pages suivantes:
 PAGE ACCUEIL: une présentation de l'association et ses services
 REALISATION: des photos inspirant le mouvement solidaire et accompagant la lutte vers le but ultime de l'association.
 PAGE EVENEMENTS: une page publicitaire qui décrit le grand événement annuel de l'association, avec le thèmes, les sponsors, le lieu et description du mouvement solidaire.
-PAGE CONTACT: une page consacrée à tout le contenu nécessaire pour joindre l'association.
+PAGE CONTACT: une page consacrée à tout le contenu nécessaire pour joindre l'association. Et une partie décrivant des témoignages d'adhérents.
 
 Le site est responsive et s'adapte automatiquement à tous les types d'écrans
 (ordinateurs, tablettes, smartphones).
