@@ -39,6 +39,8 @@ header>div h1 {
 .logo {
     float: right;
     clear: none;
+    width: 70px;
+    height: 70px;
     
 }
 .home {
@@ -74,6 +76,7 @@ header>div h1 {
 }
 .slogan {
     margin: 25px;
+    padding: 20px;
     font-size: 20px;
     font-weight: bold;
 }
@@ -133,8 +136,8 @@ header>div h1 {
     width: 200px;
 }
 .picture-sponsors {
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     margin: 15px;
     border: 1px solid #111;
     box-shadow: 0 0 10px;
