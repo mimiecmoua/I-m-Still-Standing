@@ -8,7 +8,7 @@ body {
     font-family: 'Satisfy', cursive;
 }
 .container {
-    background-color: #b19a33;
+    background-color: #f0e5af;
 
 }
 .title {
@@ -16,6 +16,8 @@ body {
     font-family: 'Alkatra', cursive;
     font-family: 'Josefin Slab', serif;
     font-family: 'Satisfy', cursive;
+    border: 2px solid white;
+    box-shadow: 0 0 10px white;
     
 }
 
@@ -31,7 +33,7 @@ body {
 }
 
 header>div h1 {
-    color:  #AB911D;
+    color:  hsl(50, 74%, 79%);
     
 }
 .logo {
@@ -41,58 +43,73 @@ header>div h1 {
 }
 .home {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
     outline: none;
     font-weight: 500;
 }
 .event {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
     outline: none;
     font-weight: 500;
 }
 
 .contact {
     color: black;
-    text-decoration: none;
+    text-decoration: underline;
     outline: none;
     font-weight: 500;
 }
 .home:hover {
-    color: rgb(228, 225, 225);
+    color: rgb(110, 28, 28);
     text-decoration: underline;
 }
 .event:hover {
-    color: rgb(228, 225, 225);
+    color: rgb(110, 28, 28);
     text-decoration: underline;
 }
 .contact:hover {
-    color: rgb(228, 225, 225);
+    color: rgb(110, 28, 28);
     text-decoration: underline;
 }
 .slogan {
     margin: 25px;
     font-size: 20px;
+    font-weight: bold;
+}
+.second-slogan {
+    margin: 25px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.theme {
+    font-weight: bold;
+    font-size: 25px;
+}
+.fire-work {
+    width: 50px;
 }
 
 .title:hover {
-    color: rgb(228, 225, 225);
+    border: 2px solid white;
+    box-shadow: 0 0 10px white;
+    transition: 0.5s;
 }
 
 .page-contact {
     float: left;
 }
 .picture-delacroix {
-    height: 300px;
-    width: 400px;
+    height: 200px;
+    width: 300px;
     margin: 10px;
     box-shadow: 0 0 10px;
     border: 1px solid grey;
     
 }
 .picture-union {
-    height: 300px;
-    width: 400px;
+    height: 200px;
+    width: 300px;
     margin: 10px;
     box-shadow: 0 0 10px;
     border: 1px solid grey;
@@ -107,11 +124,13 @@ header>div h1 {
 .map {
     border: 1px solid grey;
     box-shadow: 0 0 10px;
+    border-radius: 5px;
 }
 .picture-bastille {
     margin: 15px;
     border: 1px solid grey;
     box-shadow: 0 0 10px;
+    width: 200px;
 }
 .picture-sponsors {
     height: 400px;
@@ -119,6 +138,7 @@ header>div h1 {
     margin: 15px;
     border: 1px solid #111;
     box-shadow: 0 0 10px;
+    border-radius: 5px;
 }
 .picture-evenement {
     height: 250px;
