@@ -21,12 +21,7 @@ body {
     
 }
 
-@media screen and(min-width: 900px){
-    .row{
-        display: inline-block;
 
-    }
-}
 .title, footer {
     font-family : 'Josefin Slab', serif ;
     
